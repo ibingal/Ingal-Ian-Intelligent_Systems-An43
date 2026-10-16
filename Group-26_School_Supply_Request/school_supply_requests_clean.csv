@@ -1,0 +1,91 @@
+request_id,requesting_office,date_requested,quantity,urgency,current_stock,purpose,decision
+REQ-001,Grade 7,2026-07-23,141,Low,289,Instruction,Review
+REQ-002,Library,2026-09-05,23,High,278,Instruction,Approve
+REQ-003,Guidance,2026-09-10,75,Medium,150,Instruction,Approve
+REQ-004,Grade 10,2026-07-17,105,High,7,School Event,Defer
+REQ-005,Grade 10,2026-09-16,75,Low,179,Office Use,Review
+REQ-006,Library,2026-07-05,67,Medium,146,Examination,Approve
+REQ-007,Grade 7,2026-06-29,25,Medium,44,Examination,Approve
+REQ-008,Guidance,2026-08-21,58,High,190,School Event,Approve
+REQ-009,Grade 8,2026-08-16,36,Medium,253,Office Use,Approve
+REQ-010,Grade 7,2026-06-17,46,Medium,31,Office Use,Defer
+REQ-011,Registrar,2026-09-08,103,Low,217,Instruction,Review
+REQ-012,Clinic,2026-06-24,95,Low,42,Instruction,Defer
+REQ-013,Guidance,2026-09-05,92,Low,225,Instruction,Approve
+REQ-014,Library,2026-06-01,55,Medium,126,Instruction,Approve
+REQ-015,Guidance,2026-09-04,144,Low,1,School Event,Defer
+REQ-016,Library,2026-09-03,14,High,290,Examination,Approve
+REQ-017,Registrar,2026-09-02,52,High,49,Instruction,Review
+REQ-018,Grade 8,2026-08-19,18,Low,179,Examination,Approve
+REQ-019,Library,2026-07-27,51,Medium,54,School Event,Approve
+REQ-020,Grade 10,2026-08-24,145,Low,280,Instruction,Review
+REQ-021,Registrar,2026-07-04,55,High,222,Office Use,Approve
+REQ-022,Grade 9,2026-09-02,137,Low,242,Instruction,Review
+REQ-023,Grade 8,2026-08-06,75,Medium,130,Personal,Defer
+REQ-024,Clinic,2026-07-26,105,Medium,140,Instruction,Review
+REQ-025,Library,2026-07-31,69,High,190,Office Use,Approve
+REQ-026,Guidance,2026-08-08,40,Low,236,Personal,Defer
+REQ-027,Grade 10,2026-06-05,115,High,254,Personal,Review
+REQ-028,Library,2026-06-17,146,Low,5,Office Use,Defer
+REQ-029,Registrar,2026-06-30,40,Low,199,Office Use,Review
+REQ-030,Grade 10,2026-06-14,117,Medium,32,School Event,Defer
+REQ-031,Grade 10,2026-07-23,40,Medium,86,Office Use,Approve
+REQ-032,Grade 8,2026-08-20,108,High,249,Instruction,Review
+REQ-033,Grade 7,2026-08-18,119,High,75,School Event,Defer
+REQ-034,Registrar,2026-07-27,68,Low,146,School Event,Review
+REQ-035,Clinic,2026-09-11,111,High,139,Office Use,Approve
+REQ-036,Grade 7,2026-08-07,41,Low,70,Examination,Approve
+REQ-037,Library,2026-06-10,12,Medium,100,Examination,Approve
+REQ-038,Library,2026-08-31,15,Low,159,School Event,Review
+REQ-039,Grade 9,2026-08-08,68,High,230,Instruction,Approve
+REQ-040,Guidance,2026-08-16,136,Low,182,Instruction,Review
+REQ-041,Grade 8,2026-08-07,20,Low,280,Examination,Approve
+REQ-042,Library,2026-08-06,69,Medium,261,Instruction,Approve
+REQ-043,Guidance,2026-06-11,106,High,226,Instruction,Review
+REQ-044,Grade 9,2026-08-07,31,High,181,Examination,Approve
+REQ-045,Grade 7,2026-09-04,109,Medium,87,Examination,Defer
+REQ-046,Clinic,2026-07-07,46,High,124,Examination,Approve
+REQ-047,Grade 10,2026-08-12,122,High,35,Examination,Review
+REQ-048,Clinic,2026-06-04,87,Medium,112,Office Use,Approve
+REQ-049,Guidance,2026-07-12,83,Low,278,Instruction,Approve
+REQ-050,Library,2026-07-23,27,High,128,Personal,Review
+REQ-051,Library,2026-09-26,70,Medium,34,Personal,Defer
+REQ-052,Grade 8,2026-06-26,129,Medium,196,Examination,Review
+REQ-053,Grade 9,2026-07-04,3,Low,289,Examination,Approve
+REQ-054,Grade 10,2026-07-20,114,Medium,261,School Event,Review
+REQ-055,Grade 10,2026-09-28,74,Low,82,Office Use,Approve
+REQ-056,Grade 7,2026-09-11,108,High,136,School Event,Review
+REQ-057,Registrar,2026-06-05,100,Low,159,Office Use,Review
+REQ-058,Grade 8,2026-06-29,65,Low,74,School Event,Review
+REQ-059,Guidance,2026-09-07,47,High,80,School Event,Approve
+REQ-060,Guidance,2026-06-07,95,Low,71,Instruction,Defer
+REQ-061,Clinic,2026-09-11,22,Low,299,Office Use,Review
+REQ-062,Guidance,2026-07-04,88,Medium,224,Instruction,Approve
+REQ-063,Grade 9,2026-09-19,15,High,253,Office Use,Defer
+REQ-064,Clinic,2026-07-06,98,Low,245,Office Use,Review
+REQ-065,Grade 10,2026-07-23,95,Low,288,Instruction,Approve
+REQ-066,Grade 9,2026-08-19,13,High,31,School Event,Approve
+REQ-067,Clinic,2026-06-16,114,High,265,Instruction,Review
+REQ-068,Grade 9,2026-08-06,63,Medium,20,Office Use,Defer
+REQ-069,Grade 7,2026-07-31,119,Low,143,Instruction,Defer
+REQ-070,Grade 10,2026-09-03,7,Low,178,Personal,Defer
+REQ-071,Library,2026-09-28,27,Low,107,Instruction,Approve
+REQ-072,Grade 8,2026-08-19,75,Low,43,Personal,Defer
+REQ-073,Grade 10,2026-07-20,29,Medium,57,Office Use,Approve
+REQ-074,Grade 8,2026-07-19,50,Low,248,School Event,Review
+REQ-075,Guidance,2026-07-21,100,Medium,95,Office Use,Review
+REQ-076,Grade 10,2026-09-06,22,Medium,93,Office Use,Approve
+REQ-077,Grade 9,2026-07-09,102,Medium,277,Personal,Defer
+REQ-078,Grade 8,2026-06-21,16,Low,43,Instruction,Approve
+REQ-079,Registrar,2026-07-11,27,High,275,School Event,Approve
+REQ-080,Guidance,2026-06-03,89,Medium,277,Instruction,Approve
+REQ-081,Clinic,2026-06-13,120,Medium,180,School Event,Review
+REQ-082,Grade 10,2026-06-11,26,Low,49,Instruction,Approve
+REQ-083,Grade 8,2026-09-01,45,Low,46,School Event,Review
+REQ-084,Library,2026-08-26,139,High,85,School Event,Defer
+REQ-085,Guidance,2026-08-23,149,Medium,173,Examination,Review
+REQ-086,Guidance,2026-07-26,88,Low,46,School Event,Defer
+REQ-087,Grade 7,2026-08-26,68,Medium,137,Office Use,Approve
+REQ-088,Grade 9,2026-06-20,53,Medium,34,Office Use,Defer
+REQ-089,Library,2026-09-17,92,High,162,Examination,Approve
+REQ-090,Library,2026-07-31,89,Low,6,School Event,Defer
